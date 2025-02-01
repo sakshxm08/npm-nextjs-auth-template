@@ -10,14 +10,6 @@ A simple CLI tool to bootstrap Next.js projects with authentication, state manag
 - 🎨 **Styled with TailwindCSS & Shadcn** – Modern UI components and styling included.
 - ⚙️ **Configurable Setup** – Easily extend or modify the project structure.
 
-## Installation
-
-To install the CLI tool globally, run:
-
-```sh
-npm install -g nextjs-auth
-```
-
 ## Usage
 
 ### Create a New Project
@@ -25,7 +17,7 @@ npm install -g nextjs-auth
 To generate a new project, run:
 
 ```sh
-nextjs-auth init
+npx nextjs-auth-sakshxm08 init
 ```
 
 The CLI will prompt you to enter a **project name**. Once entered, it will:
@@ -88,7 +80,7 @@ npm run dev
 
 ## Support
 
-For issues or feature requests, please visit the [GitHub Repository](https://github.com/sakshxm08/nextjs-auth-template-cli).
+For issues or feature requests, please visit the [GitHub Repository](https://github.com/sakshxm08/nextjs-auth-template).
 
 ## License
 
