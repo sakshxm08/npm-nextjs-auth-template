@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-auth-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "inquirer": "^12.3.3",
+    "simple-git": "^3.27.0"
+  },
+  "bin": {
+    "nextjs-auth": "./index.js"
+  }
+}
